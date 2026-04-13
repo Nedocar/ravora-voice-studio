@@ -1,0 +1,54 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="86" y1="76" x2="1182" y2="578" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8F2E8"/>
+      <stop offset="1" stop-color="#EEF7F6"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="768" y1="114" x2="1148" y2="446" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBF8F2"/>
+      <stop offset="1" stop-color="#F0FBFA"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="640" rx="40" fill="url(#bg)"/>
+  <rect x="46" y="46" width="1188" height="548" rx="34" fill="#FFF9F1" stroke="#E7DDD0"/>
+
+  <rect x="88" y="92" width="168" height="42" rx="21" fill="#E7ECE9"/>
+  <text x="172" y="119" fill="#245764" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">LOCAL WINDOWS TTS</text>
+
+  <text x="88" y="206" fill="#111A22" font-family="Georgia, Times New Roman, serif" font-size="64" font-weight="700">Ravora Voice Studio</text>
+  <text x="88" y="254" fill="#245764" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Local Windows TTS with the fuller multilingual catalog</text>
+  <text x="88" y="308" fill="#3A4B55" font-family="Segoe UI, Arial, sans-serif" font-size="27">Ready-to-install desktop software for creators and power users</text>
+  <text x="88" y="344" fill="#3A4B55" font-family="Segoe UI, Arial, sans-serif" font-size="27">who want broader voice coverage, WAV export, and no subscription.</text>
+
+  <rect x="88" y="394" width="188" height="46" rx="23" fill="#FFFFFF" stroke="#E2D6C8"/>
+  <text x="182" y="423" fill="#1F3E50" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">54 VOICE IDS</text>
+  <rect x="290" y="394" width="168" height="46" rx="23" fill="#FFFFFF" stroke="#E2D6C8"/>
+  <text x="374" y="423" fill="#1F3E50" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">9 FAMILIES</text>
+  <rect x="472" y="394" width="198" height="46" rx="23" fill="#FFFFFF" stroke="#E2D6C8"/>
+  <text x="571" y="423" fill="#1F3E50" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">WAV + JSON EXPORT</text>
+
+  <rect x="756" y="118" width="412" height="388" rx="28" fill="url(#panel)" stroke="#E5DDD2"/>
+  <rect x="790" y="156" width="164" height="112" rx="24" fill="#FFFFFF" stroke="#E5DDD2"/>
+  <text x="822" y="208" fill="#161C23" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">54</text>
+  <text x="822" y="244" fill="#245764" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">VOICE IDS</text>
+
+  <rect x="970" y="156" width="164" height="112" rx="24" fill="#FFFFFF" stroke="#E5DDD2"/>
+  <text x="1002" y="208" fill="#161C23" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">9</text>
+  <text x="1002" y="244" fill="#245764" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">FAMILIES</text>
+
+  <rect x="790" y="286" width="164" height="180" rx="24" fill="#FFFFFF" stroke="#E5DDD2"/>
+  <text x="822" y="348" fill="#161C23" font-family="Georgia, Times New Roman, serif" font-size="42" font-weight="700">Local</text>
+  <text x="822" y="384" fill="#245764" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">INFERENCE</text>
+  <text x="822" y="425" fill="#4D5B63" font-family="Segoe UI, Arial, sans-serif" font-size="18">Runs on your own</text>
+  <text x="822" y="450" fill="#4D5B63" font-family="Segoe UI, Arial, sans-serif" font-size="18">machine.</text>
+
+  <rect x="970" y="286" width="164" height="180" rx="24" fill="#FFFFFF" stroke="#E5DDD2"/>
+  <text x="1002" y="348" fill="#161C23" font-family="Georgia, Times New Roman, serif" font-size="42" font-weight="700">WAV</text>
+  <text x="1002" y="384" fill="#245764" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">EXPORTS</text>
+  <text x="1002" y="425" fill="#4D5B63" font-family="Segoe UI, Arial, sans-serif" font-size="18">Audio preview plus</text>
+  <text x="1002" y="450" fill="#4D5B63" font-family="Segoe UI, Arial, sans-serif" font-size="18">metadata download.</text>
+
+  <rect x="88" y="490" width="474" height="60" rx="16" fill="#F4F0E7"/>
+  <text x="110" y="528" fill="#245764" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Broader multilingual catalog for the fuller Ravora Windows experience</text>
+</svg>

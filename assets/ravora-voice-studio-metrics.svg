@@ -1,0 +1,48 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="94" y1="80" x2="1105" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FAF4EA"/>
+      <stop offset="1" stop-color="#EEF7F6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" rx="36" fill="url(#bg)"/>
+  <rect x="52" y="52" width="1096" height="656" rx="28" fill="#FFF9F1" stroke="#E8DED0"/>
+
+  <rect x="90" y="100" width="312" height="200" rx="28" fill="#FFFFFF" stroke="#E5DBCE"/>
+  <text x="126" y="178" fill="#161C23" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="700">54</text>
+  <text x="126" y="230" fill="#245764" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">VOICE IDS</text>
+  <text x="126" y="280" fill="#4A5A63" font-family="Segoe UI, Arial, sans-serif" font-size="24">Full supported</text>
+  <text x="126" y="312" fill="#4A5A63" font-family="Segoe UI, Arial, sans-serif" font-size="24">multilingual lineup.</text>
+
+  <rect x="444" y="100" width="312" height="200" rx="28" fill="#FFFFFF" stroke="#E5DBCE"/>
+  <text x="480" y="178" fill="#161C23" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="700">9</text>
+  <text x="480" y="230" fill="#245764" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">FAMILIES</text>
+  <text x="480" y="280" fill="#4A5A63" font-family="Segoe UI, Arial, sans-serif" font-size="24">English, Asian, Romance,</text>
+  <text x="480" y="312" fill="#4A5A63" font-family="Segoe UI, Arial, sans-serif" font-size="24">Hindi, and more.</text>
+
+  <rect x="798" y="100" width="312" height="200" rx="28" fill="#FFFFFF" stroke="#E5DBCE"/>
+  <text x="834" y="178" fill="#161C23" font-family="Georgia, Times New Roman, serif" font-size="62" font-weight="700">Local</text>
+  <text x="834" y="226" fill="#245764" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">INFERENCE</text>
+  <text x="834" y="278" fill="#4A5A63" font-family="Segoe UI, Arial, sans-serif" font-size="24">Runs on your machine</text>
+  <text x="834" y="310" fill="#4A5A63" font-family="Segoe UI, Arial, sans-serif" font-size="24">without a hosted API.</text>
+
+  <rect x="90" y="352" width="1020" height="300" rx="28" fill="#F4F5F8" stroke="#E1D9CE"/>
+  <text x="128" y="426" fill="#161C23" font-family="Georgia, Times New Roman, serif" font-size="52" font-weight="700">Catalog Snapshot</text>
+  <text x="128" y="470" fill="#57656E" font-family="Segoe UI, Arial, sans-serif" font-size="22">Ravora Voice Studio ships the fuller supported multilingual family map in one interface.</text>
+
+  <rect x="118" y="512" width="420" height="74" rx="22" fill="#FFFFFF"/>
+  <text x="148" y="556" fill="#173B4A" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">American English</text>
+  <text x="148" y="583" fill="#4A5A63" font-family="Segoe UI, Arial, sans-serif" font-size="19">20 official voices</text>
+
+  <rect x="560" y="512" width="420" height="74" rx="22" fill="#FFFFFF"/>
+  <text x="590" y="556" fill="#173B4A" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">British English</text>
+  <text x="590" y="583" fill="#4A5A63" font-family="Segoe UI, Arial, sans-serif" font-size="19">8 official voices</text>
+
+  <rect x="118" y="600" width="420" height="74" rx="22" fill="#FFFFFF"/>
+  <text x="148" y="644" fill="#173B4A" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Japanese</text>
+  <text x="148" y="671" fill="#4A5A63" font-family="Segoe UI, Arial, sans-serif" font-size="19">5 official voices</text>
+
+  <rect x="560" y="600" width="420" height="74" rx="22" fill="#FFFFFF"/>
+  <text x="590" y="644" fill="#173B4A" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Mandarin Chinese</text>
+  <text x="590" y="671" fill="#4A5A63" font-family="Segoe UI, Arial, sans-serif" font-size="19">8 official voices</text>
+</svg>
